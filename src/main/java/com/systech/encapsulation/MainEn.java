@@ -1,7 +1,8 @@
 package com.systech.encapsulation;
 
-public class Main {
+public class MainEn {
   public static void main(String[] args) {
+    System.out.println("======Encapsulation=====");
     Car car1 = new Car(2000, "Nissan");
     Car car2 = new Car(50000, "Mazda");
 
